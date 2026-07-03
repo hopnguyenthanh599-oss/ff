@@ -39,8 +39,8 @@ GIF_BAN = "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnI1OGdlNnUybTY3Y3B
 GIF_LOADING = ""https://media.giphy.com/media/UcMN5lbUI4b5sdTSLu/giphy.gif"
 GIF_DONE = "https://media0.giphy.com/media/jst0dxUybUkdH9yTyB/giphy.gif"
 
-TOKEN = "8625237753:AAEHTJk3V9d6-cn4aO4QwbNEdXhikAS0bN8"
-OWNER_ID = 8433670203  
+TOKEN = "8837650933:AAGDwiG7_dDc0ORVFrZu8kg-joJYne5BPmg"
+OWNER_ID = 7816353760  
 
 admins = {OWNER_ID}
 allowed_groups = set()
