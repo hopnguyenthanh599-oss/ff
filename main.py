@@ -36,7 +36,7 @@ API_REGION = "http://203.57.85.58:2035/region?uid={uid}&key=@yashapis"  # ← Th
 GIF_HU = "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzc0NjEwbnRmZnVsMGRyaTFiazYwZzRybm1yamk5dHU5djM3Ym9kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QlQdLBS70XJcZY1fLF/giphy.gif"
 GIF_CUTE = "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2x4NTdidXZwNzd3c2ZlcHgwdXpkMXkzdWtwYTd5YzEyb2NuOHdjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvK7Gxcq4QS4fNNjYH/giphy.gif"
 GIF_BAN = "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnI1OGdlNnUybTY3Y3BwNWgyYnpyZGNpMGR5N3p3NHYwMzNldTIzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xxq7xGRiH0asGf5PXD/giphy.gif"
-GIF_LOADING = ""https://media.giphy.com/media/UcMN5lbUI4b5sdTSLu/giphy.gif"
+GIF_LOADING = "https://media.giphy.com/media/UcMN5lbUI4b5sdTSLu/giphy.gif"
 GIF_DONE = "https://media0.giphy.com/media/jst0dxUybUkdH9yTyB/giphy.gif"
 
 TOKEN = "8837650933:AAGDwiG7_dDc0ORVFrZu8kg-joJYne5BPmg"
